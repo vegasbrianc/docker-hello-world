@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Swisscom!</title>
+	<title>Application Cloud now Supports Docker Containers!</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
