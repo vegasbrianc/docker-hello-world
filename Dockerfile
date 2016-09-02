@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu
 MAINTAINER Jason Hughes
 
 # Install base packages
